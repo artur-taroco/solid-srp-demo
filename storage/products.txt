@@ -1,0 +1,2 @@
+{"id":1,"name":"rabanete","price":1}
+{"id":2,"name":"taroco","price":30}

@@ -1,0 +1,10 @@
+{
+  "name": "aluno/products-srp-demo",
+  "description": "Cadastro e listagem de produtos com SRP",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
